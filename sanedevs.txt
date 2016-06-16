@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 
-hello
-hello sanedevs plt. ltd.
-
-=======
-hello sanedevs
->>>>>>> parent of e19d927... change in sanedevs
+HELLO AHMEDABAD
+this is my court branch
+hello rajkot
