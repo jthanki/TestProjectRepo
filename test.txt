@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 hello demo/example 2222222222222
 hello demo/example 
 hello demo/example 2222222222222
-=======
-hello demo/example 
-hello demo/example 
->>>>>>> parent of a4dcf15... Revert "change in test"
